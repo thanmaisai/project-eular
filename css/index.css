@@ -1,9 +1,9 @@
 .bgImg{
-    background-image: url(https://i.pinimg.com/564x/0c/8c/42/0c8c42564573b645b73a54816fa72ed0.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url("../images/undraw_Bookshelves_re_lxoy.png");
+    
+    background-size:cover;
 }
-h1{
-    color: azure;
+h1,p{
+    color: black;
     text-align: center;
 }
